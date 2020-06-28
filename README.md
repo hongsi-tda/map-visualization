@@ -1,7 +1,11 @@
 # map-visualization
 
 
-### folium basic
+### folium basic (with choropleth)
+
+Fast marker?
+
+Others?
 
 ### with plotly
 
